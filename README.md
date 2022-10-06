@@ -3,4 +3,4 @@
 >## Hopefully works
 
 ## Controls
-In Minecraft settings
+** In Minecraft settings **
