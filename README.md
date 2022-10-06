@@ -2,5 +2,5 @@
 
 >## Hopefully works
 
-# Controls
+## Controls
 In Minecraft settings
