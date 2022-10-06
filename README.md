@@ -1,0 +1,3 @@
+# BazaarFlipper
+
+# Hopefully works
